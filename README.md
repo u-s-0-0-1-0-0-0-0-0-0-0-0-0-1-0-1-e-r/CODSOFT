@@ -1,5 +1,6 @@
-# CODSOFT2
-task 2 
+
+Here are some projects
+Task 2 
 to make a student grade system 
 
 
