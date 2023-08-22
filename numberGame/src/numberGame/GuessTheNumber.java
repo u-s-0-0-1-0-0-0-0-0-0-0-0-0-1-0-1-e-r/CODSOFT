@@ -67,7 +67,7 @@ public class GuessTheNumber {
 		System.out.println("You have 10 chances for each round till you guessed the right.");
 		Random rand=new Random();
 		int guess=rand.nextInt(100)+1;
-		System.out.println(guess);
+		//System.out.println(guess);
 	    game(guess);
 	    
 	    
